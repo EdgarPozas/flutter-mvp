@@ -1,16 +1,17 @@
-# flutter_mvp
+# flutter-mvp
 
-A new Flutter application.
+This is an example of the pattern Model - View - Presenter
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+You need the following programs:
+* Android Studio
+* Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+First download or clone the repository. Next to place inside the folder.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+Open the project with Android Studio and then press the play button
